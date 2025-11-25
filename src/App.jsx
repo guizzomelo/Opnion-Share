@@ -6,7 +6,7 @@ import Profile from './component/mainpage/Profile'
 
 function App() {
   return (
-    <BrowserRouter basename={import.meta.env.BASE_URL}>
+    <BrowserRouter basename="/Opnion-Share">
       <Routes>
         <Route path="/" element={<Landingpage />} />
         <Route path="/auth" element={<Authentication />}/>
