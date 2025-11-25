@@ -6,7 +6,7 @@ import Profile from './component/mainpage/Profile'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.BASE_URL}>
       <Routes>
         <Route path="/" element={<Landingpage />} />
         <Route path="/auth" element={<Authentication />}/>
