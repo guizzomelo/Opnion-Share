@@ -6,7 +6,7 @@ import Profile from './component/mainpage/Profile.jsx'
 
 function App() {
   return (
-    <BrowserRouter basename='Opnion-Share'>
+    <BrowserRouter>
       <Routes>
         <Route path="/" element={<Landingpage />} />
         <Route path="/auth" element={<Authentication />}/>
