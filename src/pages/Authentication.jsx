@@ -1,9 +1,9 @@
 import React, { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { signInWithEmailAndPassword, createUserWithEmailAndPassword } from 'firebase/auth'
-import { auth } from '../services/firebaseconfig'
-import Login from '../component/auth/login'
-import Register from '../component/auth/register'
+import { auth } from '../services/firebaseconfig.js'
+import Login from '../component/auth/login.jsx'
+import Register from '../component/auth/register.jsx'
 
 export default function Authentication() {
   const [isLogin, setIsLogin] = useState(true)

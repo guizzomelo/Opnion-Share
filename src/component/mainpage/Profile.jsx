@@ -1,7 +1,7 @@
 import React from 'react'
-import Sidebar from './Sidebar'
+import Sidebar from './Sidebar.jsx'
 import profilepic from '../../assets/profilepic.png'
-import EditProfileModal from './EditProfileModal'
+import EditProfileModal from './EditProfileModal.jsx'
 import { useState } from 'react'
 
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import CommentsModal from './CommentsModal'
+import CommentsModal from './CommentsModal.jsx'
 import defaltpic from '../../assets/Profilepic.png'
 
 export default function PostCard({ post, isOwnPost, onAddComment, onDeletePost }) {

@@ -1,5 +1,5 @@
 import React from 'react'
-import PostCard from './PostCard'
+import PostCard from './PostCard.jsx'
 
 export default function PostList({ posts, onAddComment, onDeletePost }) {
   const currentUser = "John Doe" // TODO: Replace with actual user authentication

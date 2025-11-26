@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Landingpage from "./pages/landingpage"
-import Authentication from './pages/Authentication'
-import MainPage from './pages/mainpage'
-import Profile from './component/mainpage/Profile'
+import Landingpage from "./pages/landingpage.jsx"
+import Authentication from './pages/Authentication.jsx'
+import MainPage from './pages/mainpage.jsx'
+import Profile from './component/mainpage/Profile.jsx'
 
 function App() {
   return (

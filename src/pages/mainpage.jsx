@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
-import Sidebar from '../component/mainpage/Sidebar'
-import PostList from '../component/mainpage/PostList'
-import SearchBar from '../component/mainpage/SearchBar'
+import Sidebar from '../component/mainpage/Sidebar.jsx'
+import PostList from '../component/mainpage/PostList.jsx'
+import SearchBar from '../component/mainpage/SearchBar.jsx'
 
 export default function MainPage() {
   // Initialize state with data from localStorage if it exists

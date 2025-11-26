@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import { searchVideos } from '../../services/YoutubeApi'
-import VideoOpinionModal from './VideoOpinionModal'
+import { searchVideos } from '../../services/YoutubeApi.js'
+import VideoOpinionModal from './VideoOpinionModal.jsx'
 
 export default function SearchBar({ onNewPost }) {
   const [searchQuery, setSearchQuery] = useState('')
