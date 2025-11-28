@@ -3,7 +3,7 @@
 
 <h4>Este projeto foi criado com a intenção de evoluir minhas habilidades em JavaScript e ReactJS para outro patamar. Eu apilidei este projeto de Opinion Share. O objetivo é ser uma espécie de rede social onde as pessoas podem discutir e dar suas opiniões sobre vídeos do Youtube em um chat global. Nesta aplicação é possível comentar nas postagens feitas por outros usuários, que entram na aplicação após fazer login ou criar uma conta. O projeto ainda não está 100% concluido já que eu só utilizei ferramentas front-end com html, css, javascript/React, com está aplicação eu levei o javascript/front-end ao limite, o proximo passo é implementar o back-end da aplicação usando o NodeJS.</h4>
 
-<h3>Landing Page</h3>h3>
+<h3>Landing Page</h3>
 <img width="1265" height="578" alt="landing-page" src="https://github.com/user-attachments/assets/064ec4a3-3dbf-43a7-92c4-6bb7c3733c88" />
 <h4>Esta é a landing page da aplicação é a primeira pagina que o usuario encontra ao entrar no link, aqui eu tentei deixar o app mais minimalista as cores predominantes na aplicação são preto e branco.</h4>
 
