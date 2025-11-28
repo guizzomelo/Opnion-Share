@@ -1,3 +1,6 @@
 
 # Opnion-Share
+
+<img width="1265" height="578" alt="landing-page" src="https://github.com/user-attachments/assets/064ec4a3-3dbf-43a7-92c4-6bb7c3733c88" />
+
 <h4>Este projeto foi criado com a intenção de evoluir minhas habilidades em JavaScript e ReactJS para outro patamar. <br/> Eu apilidei este projeto de Opnion Share o objetivo é ser uma especie de rede social onde as pessoas podem discutir e das suas opniões sobre videos do Youtube em um chat global, nesta aplicação é possivel comentar nas postagens feitas por outros usuarios, que entram na aplicação apôs fazer login ou criar uma conta. O projeto ainda não está 100% concluido já que eu só utilizei ferramentas front-end com html, css, javascript/React, com está aplicação eu levei o javascript/front-end ao limite, o proximo passo é implementar o back-end da aplicação usando o NodeJS.</h4>
