@@ -1,3 +1,3 @@
 
 # Opnion-Share
-<h2>Opnion Share is an javascript app, and my goal with this app was to build a chat where you can share your opnion about a Youtube video.</h2>
+<h3>Este projeto foi criado com a intenção de evoluir minhas habilidades em JavaScript e ReactJS para outro patamar. Eu apilidei este projeto de Opnion Share o objetivo é ser uma especie de rede social onde as pessoas podem discutir e das suas opniões sobre videos do Youtube em um chat global, nesta aplicação é possivel comentar nas postagens feitas por outros usuarios, que entram na aplicação apôs fazer login ou criar uma conta. O projeto ainda não está 100% concluido já que eu só utilizei ferramentas front-end com html, css, javascript/React, com está aplicação eu levei o javascript/front-end ao limite, o proximo passo é implementar o back-end da aplicação usando o NodeJS.</h3>
